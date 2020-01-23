@@ -1,0 +1,44 @@
+.container {
+	display: flex;
+	margin-top: 5px;
+	margin-right: 5%;
+}
+
+.inline_contener {
+	text-align: center;
+	
+}
+
+.box1 {
+	flex: 1;
+}
+
+.box2 {
+	flex: 1;
+}
+
+.box3 {
+	flex: 1;
+}
+
+.box4 {
+	flex: 1;
+}
+
+.box5 {
+	flex: 1;
+}
+
+.box6 {
+	flex: 1;
+}
+
+.img1 {
+	width: 5%;
+}
+
+.img2 {
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
